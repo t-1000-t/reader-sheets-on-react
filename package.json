@@ -33,7 +33,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://t-1000-t.github.io/reader-sheets-on-react",
   "eslintConfig": {
     "extends": "react-app"
   },
