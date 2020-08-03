@@ -42,6 +42,7 @@ class Reader extends Component {
 
   render() {
     const { currentPage } = this.state;
+    console.log(publications.length);
     return (
       <div className={reader}>
         <Controls
