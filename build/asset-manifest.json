@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/reader-sheets-on-react/static/css/main.19a9c461.chunk.css",
-    "main.js": "/reader-sheets-on-react/static/js/main.f3e6bba9.chunk.js",
-    "main.js.map": "/reader-sheets-on-react/static/js/main.f3e6bba9.chunk.js.map",
+    "main.js": "/reader-sheets-on-react/static/js/main.81042ba4.chunk.js",
+    "main.js.map": "/reader-sheets-on-react/static/js/main.81042ba4.chunk.js.map",
     "runtime-main.js": "/reader-sheets-on-react/static/js/runtime-main.27799554.js",
     "runtime-main.js.map": "/reader-sheets-on-react/static/js/runtime-main.27799554.js.map",
-    "static/js/2.971d8dd7.chunk.js": "/reader-sheets-on-react/static/js/2.971d8dd7.chunk.js",
-    "static/js/2.971d8dd7.chunk.js.map": "/reader-sheets-on-react/static/js/2.971d8dd7.chunk.js.map",
+    "static/js/2.16ca4d7d.chunk.js": "/reader-sheets-on-react/static/js/2.16ca4d7d.chunk.js",
+    "static/js/2.16ca4d7d.chunk.js.map": "/reader-sheets-on-react/static/js/2.16ca4d7d.chunk.js.map",
     "index.html": "/reader-sheets-on-react/index.html",
-    "precache-manifest.6ce48e586ad01ab98bb7a5d6ce6c1f0d.js": "/reader-sheets-on-react/precache-manifest.6ce48e586ad01ab98bb7a5d6ce6c1f0d.js",
+    "precache-manifest.dbd2b52717f5ebd6fa27c54571366c39.js": "/reader-sheets-on-react/precache-manifest.dbd2b52717f5ebd6fa27c54571366c39.js",
     "service-worker.js": "/reader-sheets-on-react/service-worker.js",
     "static/css/main.19a9c461.chunk.css.map": "/reader-sheets-on-react/static/css/main.19a9c461.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.27799554.js",
-    "static/js/2.971d8dd7.chunk.js",
+    "static/js/2.16ca4d7d.chunk.js",
     "static/css/main.19a9c461.chunk.css",
-    "static/js/main.f3e6bba9.chunk.js"
+    "static/js/main.81042ba4.chunk.js"
   ]
 }
